@@ -12,8 +12,9 @@ My GitHub page is http://github.com/Yuuji-95.
 
     Lab 1 was one of my favorite labs because it kicked things off to a nice
     start in coding. It was a good way to start the lab class and a nice
-    walkthrough which taught us what to expect and learn in class and how
-    the partnering and the driver and navigator technique works.
+    walkthrough on how coding works. It also taught us what to expect and
+    learn in class and how the partnering and the driver and navigator
+    technique works.
 
 * Lab 8
 
