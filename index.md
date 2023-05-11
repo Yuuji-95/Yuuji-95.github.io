@@ -21,15 +21,16 @@ My GitHub page is http://github.com/Yuuji-95.
     Lab 8, part 1 was also one of my favorites because it was interesting how
     a code runs and shows patterns with and using loops. It was the most
     interesting lab in my opinion because I learned that a code does not
-    necessary need to be long for it to run a decently sized pattern.
-    It was interesting how a code with the line length of 20 is able to
-    run and print 22 rows and 23 columns of lines and dashes that forms
+    necessarily need to consist of many functions for it to run a decently
+    sized pattern. It was interesting how a code with the line length of 20 is
+    able to run and print 22 rows and 23 columns of lines and dashes that forms
     a pattern.
 
 * Lab 12
 
-    Lab 12, part 1 was one of my favorties as well because it was a nice
+    Lab 12, part 1 was one of my favorties as well because it was a nicedecently
     code to learn and end the lab class. It was great learning how to write
-    codes and debug images to creatand run an animated image. However, the
-    thing that caught my interest the most in this lab was learning how codes
-    that consists of letters and numbers are able to make an animated image.
+    codes that built functions and debug images to create and run an animated
+    image. However, the thing that caught my interest the most in this lab was
+    learning how codes that consists of letters and numbers are able to make
+    an animated image.
