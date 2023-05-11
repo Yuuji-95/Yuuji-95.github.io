@@ -21,7 +21,7 @@ My GitHub page is http://github.com/Yuuji-95.
     Lab 8, part 1 was also one of my favorites because it was interesting how
     a code runs and shows patterns with and using loops. It was the most
     interesting lab in my opinion because I learned that a code does not
-    necessarily need to consist of many functions for it to run a decently
+    necessarily need to consist many functions for it to run a decently
     sized pattern. It was interesting how a code with the line length of 20 is
     able to run and print 22 rows and 23 columns of lines and dashes that forms
     a pattern.
